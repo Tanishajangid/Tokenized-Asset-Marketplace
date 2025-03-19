@@ -1,15 +1,14 @@
 [package]
-name = "send_message"
-version = "1.0.0"
-authors = []
+name = "TokenizedAssets"
+version = "0.1.0"
+authors = ["Your Name"]
 
 [addresses]
-send_message = '0x250adcf0741d04f00da1b157d76e6b9f4d739c157c6e5253b6df1f0b69dcc1ed'
-[dev-addresses]
+Marketplace = "0x5f7d02e4c908d821d25e7a1df65250c440272bbd54872721f334fba67821c028" 
 
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-core.git"
-rev = "mainnet"
+rev = "main"  # Use the latest stable revision or a specific commit
 subdir = "aptos-move/framework/aptos-framework"
 
 [dev-dependencies]
