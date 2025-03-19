@@ -23,6 +23,7 @@ The goal of the Tokenized Asset Marketplace is to democratize access to asset ow
 - **Audit and Compliance:** Maintain regulatory compliance through transparent on-chain records.
 
 ## Contract Address: 
+0x093c10f2628e773095c5135900641a5273ac2d9ed9f87086a68984a1db749f1d
+---
 
-
-
+![image](https://github.com/user-attachments/assets/85c6456c-4a9a-46fd-8b44-ef623a7064e5)
