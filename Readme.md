@@ -22,9 +22,7 @@ The goal of the Tokenized Asset Marketplace is to democratize access to asset ow
 - **Escrow System:** Ensure secure transactions using an automated escrow service.
 - **Audit and Compliance:** Maintain regulatory compliance through transparent on-chain records.
 
----
+## Contract Address: 
 
-For further information, visit the platform's official website or reach out to our support team.
 
-**Note:** This README is for informational purposes only and subject to updates as the project evolves.
 
